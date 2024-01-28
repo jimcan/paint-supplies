@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\jimcan\Desktop\PaintSupplies\PaintSupplies\main.cpp(20,5): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\jimcan\Desktop\PaintSupplies\PaintSupplies\main.cpp(20,29): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  PaintSupplies.vcxproj -> C:\Users\jimcan\Desktop\PaintSupplies\x64\Debug\PaintSupplies.exe
